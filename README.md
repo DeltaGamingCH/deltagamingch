@@ -1,6 +1,7 @@
 > Software Engineer / Applikationsentwickler EFZ in 🇨🇭
 > Focusing on unique, consistent, and intuitive user interfaces and experiences.
-> Enjoying the combination of writing clean, understandable, and simple code, while being able to be creative in design. 
+> I enjoy combining creativity and logic in software development, iterating over designs, and writing clean, consistent, comprehensible code. 
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=php,nextjs,react,vite,angular,ts,mongodb,mysql,firebase,notion,md,figma"/>
+I regularly utilize the following tech stack either for personal projects, freelancing, or at work. 
+<img src="https://skillicons.dev/icons?i=php,react,vite,angular,ts,mysql,csharp,md,figma"/>
