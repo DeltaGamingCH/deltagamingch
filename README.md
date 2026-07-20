@@ -4,4 +4,4 @@
 
 ## Tech Stack
 I regularly utilize the following tech stack either for personal projects, freelancing, or at work. 
-<img src="https://skillicons.dev/icons?i=php,react,vite,angular,ts,mysql,cs,md,figma"/>
+<img src="https://skillicons.dev/icons?i=php,react,vite,angular,ts,cs,mysql,md,figma"/>
